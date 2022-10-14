@@ -13,3 +13,4 @@ bash get-ngrok.sh
 echo -e "\e[1;32mNgrok installed sucessfull!"
 echo "Run : ngrok http 8080"
 echo " To use ngrok"
+# end
